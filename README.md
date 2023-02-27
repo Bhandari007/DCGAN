@@ -1,5 +1,7 @@
 # StackGAN
 
+Customized Dataset: https://drive.google.com/file/d/1_IjZCEOYGep6xkDcylnIHP-vNvEYZhmq/view?usp=sharing
+
 1. IMAGES : https://www.vision.caltech.edu/datasets/cub_200_2011/
 2. filename.pickle - stored filenames in a pickle file
 3. bounding_boxes - bounding box information for each image
