@@ -4,7 +4,8 @@
 2. filename.pickle - stored filenames in a pickle file
 3. bounding_boxes - bounding box information for each image
 4. class_info - class that a image belongs to
-5. description_embeddings - character based embeddings for the image descriptions
+5. train_embeddings - character based embeddings for the train descriptions
+6. test_embeddings - character base embeddings for the test descriptions.
 
 
 
